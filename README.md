@@ -1,2 +1,4 @@
 # fortune_telegram_bot
-this is a telegram bot with python and TELEBOT for set some fortunes by admin to user see them | we are developing this for futures 
+
+<img src="https://img.shields.io/pypi/pyversions/pyTelegramBotAPI"> 
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
